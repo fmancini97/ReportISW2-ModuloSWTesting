@@ -17,7 +17,7 @@ Esecuzione del mutation test:
 ```bash
 mvn clean verify -P pit-test
 ```
-Il report di pit viene generato nella directory ```./bookkeeper-server/target/```
+Il report di pit viene generato nella directory ```./bookkeeper-server/target/pit-reports```
 
 ## Compilazione ed esecuione dei test per il progetto OpenJPA
 
@@ -37,4 +37,4 @@ Esecuzione del mutation test:
 ```bash
 mvn clean verify -P pit-test
 ```
-Il report di pit viene generato nella directory ```./openjpa-kernel/target/```
+Il report di pit viene generato nella directory ```./openjpa-kernel/target/pit-reports```
