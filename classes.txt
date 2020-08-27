@@ -1,0 +1,4 @@
+org.apache.bookkeeper.bookie.BufferedChannel
+org.apache.bookkeeper.bookie.storage.ldb.LedgerMetadataIndex
+org.apache.openjpa.util.CacheMap
+org.apache.openjpa.util.ProxyManagerImpl
